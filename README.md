@@ -1,2 +1,2 @@
 # Rock-paper-and-Scissor-game
-This is my first Repository.
+This is my first Git Repository.
